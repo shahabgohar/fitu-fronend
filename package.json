@@ -6,7 +6,7 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt build && nuxt generate",
+    "generate": "npm run build && nuxt generate",
   },
   "dependencies": {
     "core-js": "^3.9.1",
