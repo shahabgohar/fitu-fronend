@@ -16,7 +16,7 @@
 
 <div class="flex-column float-right">
 
-  <img class="img-fluid" src="../assets/Fitness_m.png" height="60" width="60"/></div>
+  <img class="img-fluid" src="@/assets/Fitness_m.png" height="60" width="60"/></div>
 
   </div>
     <br><br>
