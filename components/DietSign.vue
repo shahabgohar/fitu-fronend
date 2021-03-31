@@ -1,5 +1,6 @@
 <template>
 <div>
+  <div>
   <div class="flex items-center justify-center">
 
     <p class="font-mont text-3xl items-center justify-center">SIGN IN</p>
@@ -53,6 +54,7 @@
   <br><br>
 </div>
 </div>
+
 </template>
 
 <script>
